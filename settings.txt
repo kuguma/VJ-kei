@@ -1,0 +1,26 @@
+0 /volume
+16 /filter
+17 /EQ/hi
+18 /EQ/md
+19 /EQ/lo
+51 /FX/1b
+67 /FX/2b
+
+7 /volume
+23 /filter
+22 /EQ/hi
+21 /EQ/md
+20 /EQ/lo
+53 /FX/1b
+69 /FX/2b
+
+46 /G/tap
+58 /G/activeL
+59 /G/activeR
+60 /G/set
+61 /G/prev
+62 /G/next
+52 /G/FX/1b
+68 /G/FX/2b
+3 /G/FX/1s
+4 /G/FX/2s
